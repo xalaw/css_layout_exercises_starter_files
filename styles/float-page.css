@@ -10,3 +10,19 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.left-side {
+	float:left;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+.right-side {
+	float:right;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.floated-image {
+	width: 300px;
+}
